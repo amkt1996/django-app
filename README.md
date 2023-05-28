@@ -1,1 +1,1 @@
-# djangoa-app
+# django-app
